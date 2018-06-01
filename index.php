@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>Learning GIT</title>
     </head>
     <body>
-        <h2>Продовження вивчення</h2>
+        <h2>Продовження вивчення 2</h2>
         <?php
         echo "Всім привіт";
         ?>
